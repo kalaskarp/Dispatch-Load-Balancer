@@ -1,4 +1,4 @@
-package com.loadbalancer.Dispatch.Load.Balancer;
+package com.loadbalancer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
